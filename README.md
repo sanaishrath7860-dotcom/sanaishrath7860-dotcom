@@ -88,14 +88,16 @@ I build end-to-end ML systems — from data preprocessing and model training to 
 
 ## 📌 Featured Projects
 
-### 🛒 Customer Purchase Decision Prediction — ML Web App
+### 🛒 [Customer Purchase Decision Prediction — ML Web App]
+(https://github.com/sanaishrath7860-dotcom/customer-purchase-prediction)
 > **Django · Random Forest · scikit-learn · SQLite**
 
 - **99.45% accuracy** · **ROC-AUC 0.9998** on JD.com dataset (7M+ records)
 - Discount features drive **>50% of model predictive power**
 - Full Django backend: login, admin dashboard, live prediction module
 
-### 🍽 Food Recipe Rating Prediction
+### 🍽 [Food Recipe Rating Prediction]
+(https://github.com/sanaishrath7860-dotcom/food-recipe-rating-prediction)
 > **Python · scikit-learn · Pandas · Jupyter**
 
 - Random Forest outperformed Linear Regression by ~20% on R²
